@@ -19,13 +19,13 @@ JoyMapperPlus keeps the original Apple Silicon gamepad mapping strengths, while 
 
 ## Installation
 
-1. Download the latest build from [Releases](https://github.com/coderzc/JoyMapperSilicon/releases/)
+1. Download the latest build from [Releases](https://github.com/coderzc/JoyMapperPlus/releases/)
 
 2. Copy `JoyMapperPlus.app` to the `Applications/` folder.
 
 ## Usage
 
-![screenshot](https://github.com/coderzc/JoyMapperSilicon/blob/master/resources/screenshot/screenshot_1.png)
+![screenshot](https://github.com/coderzc/JoyMapperPlus/blob/master/resources/screenshot/screenshot_1.png)
 
 See [magicien's How to Use](https://github.com/magicien/JoyKeyMapper#how-to-use).
 
