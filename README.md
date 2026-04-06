@@ -3,8 +3,7 @@ Nintendo Joy-Con / Pro Controller mapper for Apple Silicon Macs. It maps gamepad
 
 ## Demo on YouTube
 
-[Apple Silicon Mac | CrossOver | Playing Witcher 3 with GAMEPAD (Nintendo Joy-Con / Pro Controller)
-](https://youtu.be/1jpcuREivmk)
+[Switch手柄写代码，躺着 Vibe Coding](https://www.bilibili.com/video/BV1sMS9BnE2w)
 
 ## Advantages over alternatives
 
