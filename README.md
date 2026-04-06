@@ -7,15 +7,15 @@ Nintendo Joy-Con / Pro Controller mapper for Apple Silicon Macs. It maps gamepad
 
 ## Advantages over alternatives
 
-JoyMapperPlus keeps the original Apple Silicon gamepad mapping strengths, while improving the parts that matter during real use: reconnect behavior, mapping recovery after reconnect, safer rescanning, and modifier-only mappings such as Control-only.
+JoyMapperPlus keeps the original Apple Silicon gamepad mapping strengths, while improving the parts that matter during real use: reconnect behavior, mapping recovery after reconnect, safer rescanning, modifier-only mappings such as Control-only, and portable controller config transfer.
 
-|                                                          | Apple silicon native | Mouse working in games | 360° mouse move & acceleration | Both Joy Cons as a pair | Reliable reconnects | Mappings stay active after reconnect | Modifier-only mappings |
-| :------------------------------------------------------: | :------------------: | :--------------------: | :----------------------------: | :---------------------: | :-----------------: | :----------------------------------: | :--------------------: |
-|     [Enjoyable](https://yukkurigames.com/enjoyable/)     |          ❌           |           ✅            |               ❌                |            ❌            |          -          |                  -                   |           ❌           |
-|       [Enjoy2](https://github.com/fyhuang/enjoy2/)       |          ❌           |           -            |               -                |            -            |          -          |                  -                   |           -            |
-| [JoyKeyMapper](https://github.com/magicien/JoyKeyMapper) |          ❌           |           ❌            |               ✅                |            ✅            |          ❌         |                  ❌                  |           ❌           |
-| [JoyMapperSilicon (original)](https://github.com/qibinc/JoyMapperSilicon) |          ✅           |           ✅            |               ✅                |            ✅            |          ❌         |                  ❌                  |           ❌           |
-|                JoyMapperPlus (this build)                |          ✅           |           ✅            |               ✅                |            ✅            |          ✅         |                  ✅                  |           ✅           |
+|                                                          | Apple silicon native | Mouse working in games | 360° mouse move & acceleration | Both Joy Cons as a pair | Reliable reconnects | Mappings stay active after reconnect | Modifier-only mappings | Copy / import / export mappings |
+| :------------------------------------------------------: | :------------------: | :--------------------: | :----------------------------: | :---------------------: | :-----------------: | :----------------------------------: | :--------------------: | :-----------------------------: |
+|     [Enjoyable](https://yukkurigames.com/enjoyable/)     |          ❌           |           ✅            |               ❌                |            ❌            |          -          |                  -                   |           ❌           |                ❌                |
+|       [Enjoy2](https://github.com/fyhuang/enjoy2/)       |          ❌           |           -            |               -                |            -            |          -          |                  -                   |           -            |                ❌                |
+| [JoyKeyMapper](https://github.com/magicien/JoyKeyMapper) |          ❌           |           ❌            |               ✅                |            ✅            |          ❌         |                  ❌                  |           ❌           |                ❌                |
+| [JoyMapperSilicon (original)](https://github.com/qibinc/JoyMapperSilicon) |          ✅           |           ✅            |               ✅                |            ✅            |          ❌         |                  ❌                  |           ❌           |                ❌                |
+|                JoyMapperPlus (this build)                |          ✅           |           ✅            |               ✅                |            ✅            |          ✅         |                  ✅                  |           ✅           |                ✅                |
 
 ## Installation
 
@@ -29,7 +29,7 @@ JoyMapperPlus keeps the original Apple Silicon gamepad mapping strengths, while 
 
 See [magicien's How to Use](https://github.com/magicien/JoyKeyMapper#how-to-use).
 
-## New in JoyMapperPlus
+## How to copy, import, and export mappings
 
 - Copy mappings from one controller to another from the controller context menu with `Copy key mappings to...`.
 - Export the selected controller's mappings as a portable `.jmpmap` file.
