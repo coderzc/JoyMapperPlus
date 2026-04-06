@@ -35,6 +35,9 @@ See [magicien's How to Use](https://github.com/magicien/JoyKeyMapper#how-to-use)
 - Export the selected controller's mappings as a portable `.jmpmap` file.
 - Import a `.jmpmap`, `.jkmap`, or `.json` mapping file into the selected controller.
 
+<img width="477" height="428" alt="Screenshot 2026-04-06 at 17 32 38" src="https://github.com/user-attachments/assets/dfbacd1d-0ba5-47a1-9164-fa4cfccc716f" />
+
+
 This makes it much easier to keep multiple Joy-Cons in sync or back up and restore your preferred layout.
 
 ## Support the work
